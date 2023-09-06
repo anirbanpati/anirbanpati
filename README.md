@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Based Projects**
 
-- 📝 I regularly write articles on [WordPress Personal Blog]
+- 📝 I regularly write articles on [WordPress Personal Blog] 
 
 - 💬 Ask me about **JavaScript**
 
